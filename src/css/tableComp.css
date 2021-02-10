@@ -1,0 +1,39 @@
+.tableTitles {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 20px;
+  border: 1px solid black;
+  display: flex;
+}
+.userDetailWrapper {
+    margin-bottom: 20px;
+}
+.title {
+    font-style: bold;
+}
+
+.todoId {
+    width: 15%;
+}
+.titleCol2{
+    width: 25%;
+}
+.status {
+    width: 25%;
+}
+.action {
+    width: 35%;
+}
+.tableValues {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 20px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+
+.actionBtn {
+    border: 1px solid black;
+}

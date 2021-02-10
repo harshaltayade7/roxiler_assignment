@@ -1,0 +1,10 @@
+.mainComponent {
+    margin: 50px;
+    border: 1px black solid;
+    height: 100%;
+}
+
+.searchBox {
+    left: 281px;
+    position: fixed;
+}
